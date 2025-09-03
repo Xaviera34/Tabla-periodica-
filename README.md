@@ -4,7 +4,7 @@ Esta aplicación permite seleccionar elementos químicos y calcular fórmulas i�
 
 ## 🚀 ¿Cómo usarla?
 
-- Descarga el archivo `.exe` desde [aquí](https://link-de-descarga.com)
+- Descarga el archivo `.exe` desde  [Descargar tabla_periodica.exe](https://github.com/Xaviera/tabla interactiva.py
 - Ejecuta el programa en tu computadora
 - Selecciona dos elementos y observa la reacción
 
